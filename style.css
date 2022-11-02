@@ -50,6 +50,10 @@ hr {
   padding: 0 0.5rem;
 }
 
+.mb {
+  margin-bottom: 3rem;
+}
+
 .navigation {
   background-color: var(--primary-color);
   color: white;
@@ -88,6 +92,12 @@ hr {
   padding-top: 1rem;
   color: var(--dark-grey);
   text-align: center;
+}
+
+.grey-bg {
+  background-color: #e5e7eb;
+  padding: 1rem;
+  border-radius: 5px;
 }
 
 .hero-heading .heading-inverted {
